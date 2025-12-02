@@ -1,0 +1,5 @@
+{
+  "name": "VLookup Web App",
+  "description": "A powerful, no-code tool that replicates Excel's VLOOKUP functionality directly in your browser. Upload or paste data from CSV or Excel files, select your columns, and perform instant bulk lookups or joins. Download your merged results as a CSV with a single click.",
+  "requestFramePermissions": []
+}
